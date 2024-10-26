@@ -11,10 +11,10 @@
 # 👨🏻‍💻Me now
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 - ⌛️ Currently I'm busy with:
-  - 💼 Working as a Developer Teacher at Ilmhub.
-- 📝 I share my ideas at Telegram Blog
+  - 💼 Working as a Developer Teacher at [Ilmhub.](https://t.me/ilmhubuz)
+- 📝 I share my ideas at [Telegram Blog](https://t.me/islamali_blog)
 - 🌱 Learning DevOps and a lot more tech stuff.
-- 📫 Reach me at: islomaxmadjanov99@gmail.com
+- 📫 Reach me at: [islomaxmadjanov99@gmail.com](mailto:your-email@islomaxmadjanov99@gmail.com)
   
 # 🛠 Me Stack
 
