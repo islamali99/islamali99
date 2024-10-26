@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi there, I'm islamali👋
+I have experience as a backend developer. I enjoy learning new technologies, solving complex problems, and writing high-quality code.
 
-<!--
-**islamali99/islamali99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dev.to LinkedIn Telegram Instagram Facebook
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👨🏻‍💻Me now
+🤔 Exploring new technologies and developing software solutions and quick hacks.
+⌛️ Currently I'm busy with:
+💼 Working as a Developer Teacher at Ilmhub.
+📝 I share my ideas at Telegram Blog
+🌱 Learning DevOps and a lot more tech stuff.
+📫 Reach me at: islomaxmadjanov99@gmail.com
+🛠 Me Stack
+💻 .c | .cpp | .cs | .py | .sh | .yml | .html | .css | .js
+🌐 .NET 6/8 | MVC | Blazor | WebApi
