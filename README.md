@@ -11,7 +11,7 @@
 # 👨🏻‍💻Me now
 - 🤔 Exploring new technologies and developing software solutions and quick hacks.
 - ⌛️ Currently I'm busy with:
- - 💼 Working as a Developer Teacher at Ilmhub.
+  - 💼 Working as a Developer Teacher at Ilmhub.
 - 📝 I share my ideas at Telegram Blog
 - 🌱 Learning DevOps and a lot more tech stuff.
 - 📫 Reach me at: islomaxmadjanov99@gmail.com
